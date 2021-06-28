@@ -43,9 +43,9 @@
 
 ### 2. 各个领域百花齐放
 
--  [DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction ](https://arxiv.org/abs/1905.10711)(NeurIPS 2019)[有源码](https://github.com/Xharlie/DISN)
-  - 贡献：单视图的三维重建
-  - 针对现有的缺点、根据隐式表示的思想(SDF而不是Occupancy)、提出了DISN模型：相机参数预测+单张图片=>预测SDF=>使用Marching Cubes来进行可视化论证重建有效性
+* [DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction ](https://arxiv.org/abs/1905.10711)(NeurIPS 2019)[有源码](https://github.com/Xharlie/DISN)
+   * 贡献：单视图的三维重建
+   * 针对现有的缺点、根据隐式表示的思想(SDF而不是Occupancy)、提出了DISN模型：相机参数预测+单张图片=>预测SDF=>使用Marching Cubes来进行可视化论证重建有效性
 
 
 
