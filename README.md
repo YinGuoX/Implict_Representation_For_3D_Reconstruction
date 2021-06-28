@@ -1,0 +1,2 @@
+# Implict_Representation_For_3D_Reconstruction
+中文版-隐式函数在3D重建领域的发展和最新论文思想阐述
